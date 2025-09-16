@@ -3,7 +3,8 @@
 Zawify is a modern gifting platform designed to make gift-giving simple, smart, and meaningful.  
 The platform allows users to explore, choose, and share personalized gifts while ensuring accessibility and inclusivity.
 
----
+
+
 
 ## 🎯 Purpose
 Traditional gift-giving often leads to mismatched or unwanted items.  
@@ -12,7 +13,8 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 - Making gifting inclusive and accessible for all.
 - Offering a smooth, responsive, and visually appealing web experience.
 
----
+
+
 
 ## 🏗️ Project Structure
 ├── index.html        # Main landing page
@@ -20,6 +22,9 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 ├── styles.css        # Styling (responsive + animations)
 
 ├── script.js         # JavaScript for interactivity           
+
+
+
 
 ## 🌍 Live Demo
 👉 [View Live Project](https://your-live-url-here.com)  
