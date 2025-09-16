@@ -15,7 +15,6 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 ---
 
 ## 🏗️ Project Structure
-```plaintext
 ├── index.html        # Main landing page
 ├── styles.css        # Styling (responsive + animations)
 ├── script.js         # JavaScript for interactivity           
