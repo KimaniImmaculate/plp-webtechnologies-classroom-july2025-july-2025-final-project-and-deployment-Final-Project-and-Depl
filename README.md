@@ -1,90 +1,52 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+# 🎁 Zawify
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
-
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
-
----
-
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
-
-Before you write any code, take time to plan:
-
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
-
-**Goal:** Show intentional structure and user journey across the site.
+Zawify is a modern gifting platform designed to make gift-giving simple, smart, and meaningful.  
+The platform allows users to explore, choose, and share personalized gifts while ensuring accessibility and inclusivity.
 
 ---
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
-
-Using your plan, begin building:
-
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
-
-Each page should:
-
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
-
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
+## 🎯 Purpose
+Traditional gift-giving often leads to mismatched or unwanted items.  
+**Zawify** solves this by:
+- Helping users choose thoughtful, meaningful gifts.
+- Making gifting inclusive and accessible for all.
+- Offering a smooth, responsive, and visually appealing web experience.
 
 ---
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+## 🏗️ Project Structure
+```plaintext
+├── index.html        # Main landing page
+├── styles.css        # Styling (responsive + animations)
+├── script.js         # JavaScript for interactivity           
 
-Before deployment, refactor your project to follow production-friendly practices:
-
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
-
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
+## 🌍 Live Demo
+👉 [View Live Project](https://your-live-url-here.com)  
 
 ---
 
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
+## ✨ Features
+- 📱 Responsive design across devices  
+- 🎨 Smooth animations and hover effects  
+- 🧩 Sections highlighting **problem, solution, features, and how it works**  
+- 🚀 Call-to-action areas to engage users  
 
 ---
 
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
+## 🚀 Tech Stack
+- **HTML5**  
+- **CSS3** (Flexbox, Grid, Animations, Media Queries)  
+- **JavaScript** (for scroll animations and interactivity)  
 
 ---
 
-## Outcome
+## 📌 How to Run Locally
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/zawify.git
+Navigate into the project folder:
 
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices
+bash
+Copy code
+cd zawify
+Open index.html in your browser.
