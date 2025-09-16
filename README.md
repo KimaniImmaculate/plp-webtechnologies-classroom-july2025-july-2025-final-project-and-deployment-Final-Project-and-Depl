@@ -43,10 +43,10 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-username/zawify.git
-Navigate into the project folder:
+2. Navigate into the project folder:
 
-Copy code
+       Copy code
 
-cd zawify
+       cd zawify
 
-Open index.html in your browser.
+       Open index.html in your browser using liveserver
