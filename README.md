@@ -13,11 +13,11 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 
 
 ## 🏗️ Project Structure
-├── index.html        # Main landing page
+├── index.html        - Main landing page
 
-├── styles.css        # Styling (responsive + animations)
+├── styles.css        - Styling (responsive + animations)
 
-├── script.js         # JavaScript for interactivity           
+├── script.js         - JavaScript for interactivity           
 
 
 
