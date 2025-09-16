@@ -12,8 +12,6 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 - Offering a smooth, responsive, and visually appealing web experience.
 
 
-
-
 ## 🏗️ Project Structure
 ├── index.html        # Main landing page
 
@@ -25,7 +23,7 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 
 
 ## 🌍 Live Demo
-👉 [View Live Project](https://your-live-url-here.com)  
+👉 [View Live Project] https://zawifyproject.netlify.app/  
 
 
 
