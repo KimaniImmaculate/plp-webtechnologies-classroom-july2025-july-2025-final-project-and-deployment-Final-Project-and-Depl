@@ -386,6 +386,8 @@ body {
 
 .step {
     text-align: center;
+    padding: 20px;
+    border-radius: 11px;
 }
 
 .step-number {
@@ -400,6 +402,7 @@ body {
     align-items: center;
     justify-content: center;
     margin: 0 auto 20px;
+    margin: 20px auto 20px;
 }
 
 .step h3 {
@@ -456,7 +459,6 @@ body {
     padding-top: 10px;
     text-align: center;
     color: white;
-    margin-top: 20px;
 }
 
 
@@ -521,6 +523,14 @@ body.dark-mode {
   color: var(--background-light);
 }
 
+body.dark-mode .nav-links a {
+  color: var(--background-light);
+}
+
+body.dark-mode .nav-links a:hover {
+  color: var(--primary-color);
+}
+
 body.dark-mode .navbar,
 body.dark-mode .footer,
 body.dark-mode .problem,
@@ -545,6 +555,13 @@ body.dark-mode .modal-content {
   border-color: #475569;
 }
 
+body.dark-mode section h2,
+body.dark-mode .feature-card h3,
+body.dark-mode .step h3 {
+  color: var(--background-light);
+}
+
+
 body.dark-mode input,
 body.dark-mode textarea {
   background-color: #1E293B;
@@ -553,7 +570,7 @@ body.dark-mode textarea {
 }
 
 body.dark-mode .btn-primary {
-  background-color: var(--accent-color);
+  background-color: #6366F1;
   color: var(--text-dark);
 }
 
@@ -564,11 +581,17 @@ body.dark-mode .btn-secondary {
 }
 
 body.dark-mode .btn-secondary:hover {
-  background-color: var(--background-light);
+  background-color: var(--primary-color);
   color: var(--text-dark);
+  border: none;
 }
+
 body.dark-mode .modal-content {
   background-color: #1E293B;
+  color: var(--background-light);
+}
+
+body.dark-mode .close-btn {
   color: var(--background-light);
 }
 
