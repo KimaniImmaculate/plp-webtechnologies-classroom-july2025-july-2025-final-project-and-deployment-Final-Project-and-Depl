@@ -23,14 +23,14 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 
 
 ## 🌍 Live Demo
-👉 [View Live Project] https://zawifyproject.netlify.app/  
+👉 [View Live Project]  https://zawifyproject.netlify.app/  
 
 
 
 ## ✨ Features
 - 📱 Responsive design across devices  
 - 🎨 Smooth animations and hover effects  
-- 🧩 Sections highlighting **problem, features, cta and how it works**  
+- 🧩 Sections highlighting **home, problem, features, and how it works**  
 - 🚀 Call-to-action areas to engage users  
 
 
