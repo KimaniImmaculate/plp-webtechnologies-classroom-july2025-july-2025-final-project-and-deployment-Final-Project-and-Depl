@@ -16,13 +16,15 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 
 ## 🏗️ Project Structure
 ├── index.html        # Main landing page
+
 ├── styles.css        # Styling (responsive + animations)
+
 ├── script.js         # JavaScript for interactivity           
 
 ## 🌍 Live Demo
 👉 [View Live Project](https://your-live-url-here.com)  
 
----
+
 
 ## ✨ Features
 - 📱 Responsive design across devices  
@@ -30,14 +32,14 @@ Traditional gift-giving often leads to mismatched or unwanted items.
 - 🧩 Sections highlighting **problem, solution, features, and how it works**  
 - 🚀 Call-to-action areas to engage users  
 
----
+
 
 ## 🚀 Tech Stack
 - **HTML5**  
 - **CSS3** (Flexbox, Grid, Animations, Media Queries)  
 - **JavaScript** (for scroll animations and interactivity)  
 
----
+
 
 ## 📌 How to Run Locally
 1. Clone this repository:
